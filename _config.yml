@@ -2,7 +2,7 @@ title:              Eleni Sevastaki
 email:              sraidaeleni@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
-baseurl:            /blog
+baseurl:            #comment out
 url:                https://elenisevastaki.github.io
 
 # Social Profiles
