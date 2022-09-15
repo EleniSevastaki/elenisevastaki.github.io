@@ -1,24 +1,28 @@
-I"�<p>-
-layout: post
-title: “1rst Day of fablab intership”
-subtitle: “This is the post subtitle.”
-date: 2022-09-07
-background: ‘/PATH_TO_IMAGE’
-—
-The fablab is currently using a 3D scanner named SENSE by 3D SYSTEMS with the software will get discontinued at the end of the year. 
+I"�
+<hr />
+<p>The fablab is currently using a 3D scanner named SENSE by 3D SYSTEMS with the software will get discontinued at the end of the year. 
 Here are some steps to use the 3D scanner for a head scan:
 —</p>
 
-<p>First make sure to pluggin you scanner to the computer to access the password is fablab. Open then the 3D system sence software. 
+<p>Setting up you material and tools:
+First make sure to pluggin you scanner to the computer to access the password is fablab. Open then the 3D system sence software. 
 Set the scan settings to: HEAD
+—</p>
+
+<p>Start scanning
 and start scanning, important feature while scanning: light, texture of hairs and clothes ( preferably not reflective) and backround.
 IMPORTANT do not move while scanning.
-After scanning: 
+—</p>
+
+<p>After scanning: 
 Press finish
 Press solidify
 Press save and add a name to your file
 and then 
 PRESS finish
+—</p>
+
+<p>Saving the file
 Last export file to an OBJ file and save it.
 For more information about 3D printing the head end product check “Getting started with 3D printing”</p>
 :ET

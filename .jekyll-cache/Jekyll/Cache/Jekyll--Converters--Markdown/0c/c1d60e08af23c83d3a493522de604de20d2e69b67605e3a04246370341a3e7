@@ -1,0 +1,54 @@
+I"
+<p>This in an introduction to one of the 3D printers Prusa i3 3MKS used in the fablab.
+To begin we start by the the digital product and then we transit to the physical product.</p>
+
+<p>Download Prusa Slicer, (I downloaded the 2.5.0 version but I recommend to check with your 3D printers)</p>
+
+<p>Choose your printers and nozzle</p>
+
+<h2 id="open-you-file-in-prusa-slicer-your-can-drag-also-the-file-in-an-open-windows-of-the-software">Open you file in Prusa slicer your can drag also the file in an open windows of the software</h2>
+
+<h2 id="choose-your-mode-expert">Choose your Mode: Expert</h2>
+
+<h2 id="scale-your-model-to-your-preferences">Scale your model to your preferences</h2>
+
+<h2 id="center-your-model">Center your model</h2>
+
+<h2 id="for-any-overhangs-you-can-use-the-tool-paint-on-support-to-add-extra-support-in-your-model">For any overhangs you can use the tool: paint-on-support to add extra support in your model</h2>
+
+<p>Attention! 
+Before slicing you must check your filament material
+Support : for support enforcers only
+The printer that you gonna print with is the one in the description
+—</p>
+
+<h2 id="press-slice">Press SLice</h2>
+
+<h2 id="export-the-document-to-a-gcode-file">Export the document to a gcode file</h2>
+
+<h2 id="save-it-your-sdcard-that-goes-with-your-printer">Save it your Sdcard that goes with your printer</h2>
+
+<h2 id="machine-instructions">Machine instructions:</h2>
+
+<h2 id="start-by-choosing-your-filament-and-vut-the-edge-in-a-diagonal-way-for-an-easier-insert">Start by choosing your filament and vut the edge in a diagonal way for an easier insert</h2>
+
+<h2 id="insert-the-filament">Insert the filament</h2>
+
+<h2 id="clean-the-surface-with-a-special-wiper-and-product-for-the-printers">Clean the surface with a special wiper and product for the printers</h2>
+
+<h2 id="open-the-machine">Open the machine</h2>
+
+<h2 id="choose-preheat-pla-filament">Choose preheat PLA filament</h2>
+
+<h2 id="the-machine-will-start-extruding-the-old-filament-you-will-have-to-clean-it-up-attention-its-burning-so-better-use-a-tool-or-an-extension">The machine will start extruding the old filament you will have to clean it up Attention! its burning so better use a tool or an extension</h2>
+
+<p>If any callibration is needed, ypu can adjust the bed height.</p>
+
+<p>Choose your file and start with printing</p>
+
+<p>Check the forst minutes to see if everything is printing properly</p>
+
+<p>You pause to check what is happening to your model or stop the process instead of waisting any filament and then start all over again</p>
+
+<p>Good luck!</p>
+:ET
