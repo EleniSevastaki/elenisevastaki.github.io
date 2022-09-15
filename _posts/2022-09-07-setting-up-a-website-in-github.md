@@ -34,3 +34,4 @@ Templates problems
 URL problems encounters
 permalink
 markdowns
+helpfull coding commands
