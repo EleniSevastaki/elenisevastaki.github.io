@@ -1,4 +1,5 @@
-
+---
+layout: post
 ---
 This in an introduction to one of the 3D printers Prusa i3 3MKS used in the fablab.
 To begin we start by the the digital product and then we transit to the physical product.
@@ -62,15 +63,15 @@ The machine will start extruding the old filament you will have to clean it up A
 ---
 
 If any callibration is needed, ypu can adjust the bed height.
---- 
+ 
 
 Choose your file and start with printing
----
+
 
 Check the forst minutes to see if everything is printing properly
----
+
 
 You pause to check what is happening to your model or stop the process instead of waisting any filament and then start all over again
----
+
 
 Good luck!
