@@ -4,7 +4,7 @@ This in an introduction to one of the 3D printers Prusa i3 3MKS used in the fabl
 To beggin we start by the the digital product and then we transit to the physical product.
 
 
-Download Prusa SLicer (I downloaded the 2.5.0 version but I recommend to check with your 3D printers)
+Download Prusa Slicer, (I downloaded the 2.5.0 version but I recommend to check with your 3D printers)
 ---
 
 Choose your printers and nozzle 
