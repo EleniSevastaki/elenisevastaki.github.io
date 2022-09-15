@@ -1,7 +1,7 @@
 
 ---
 This in an introduction to one of the 3D printers Prusa i3 3MKS used in the fablab.
-To beggin we start by the the digital product and then we transit to the physical product.
+To begin we start by the the digital product and then we transit to the physical product.
 
 
 Download Prusa Slicer, (I downloaded the 2.5.0 version but I recommend to check with your 3D printers)
