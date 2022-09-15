@@ -1,5 +1,3 @@
--
-layout: post
 
 ---
 This in an introduction to one of the 3D printers Prusa i3 3MKS used in the fablab.
