@@ -28,3 +28,5 @@ Tutorial of 3D scanning and 3D printing with Prusa i3 M3Ks by Farah
 
 15 September 2022
 Worked on the website update
+
+16 September 2022
