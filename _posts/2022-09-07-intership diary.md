@@ -30,3 +30,6 @@ Tutorial of 3D scanning and 3D printing with Prusa i3 M3Ks by Farah
 Worked on the website update
 
 16 September 2022
+Tutorial on Vinyl Cutter with normal sticker vinyl and thermo sticker
+problems encoutered with bladed
+thermo pressing tutorial with VEVOR machine
