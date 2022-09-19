@@ -56,7 +56,11 @@ Download github desktop to code in remote areas and not having to enter agin in 
 **Visual Studio Code**: *source code editor that can use different coding languages*
 
 
-Finally, download VSC to do chamge on your selected template and run your website
+Finally, download VSC to do change on your selected template and run your website
+
+
+
+**PROBLEPMS SOLVING**
 
 
 Visual studio code starting up
