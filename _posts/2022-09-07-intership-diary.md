@@ -11,7 +11,7 @@ Check it the software used  currently by the fablab: FreeCAD, OpenCad
 
 
 **September 8th, 2022**
-After a long journey for the website website finnally worked
+After a long journey for the website website finally worked
 Setting up the email accound via Zimbra and via mattermost Gitlab an open source platform for secure collaboration accross the entire software development lifecycle.
 
 

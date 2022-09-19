@@ -13,7 +13,7 @@ Let's begin with your design:
 Depending on your software of choice make sure to save your file in black and white and the white area is the removable area, hence the black one the design of your final product. Then, save your file as an **SVG** file. 
 
 
-In fablab we use the **CAMM-1 GX-24 Roland** vinyl cutter, already connected to the pc which uses **Ubuntu**. Next step is to open **terminal** a text based interface where you can command, manipulate files and execute programs.Start by typing :**cd-mods** then **bash-mods** and **enter**.
+In fablab we use the **CAMM-1 GX-24 Roland** vinyl cutter, already connected to the pc which uses **Ubuntu**. Next step is to open **terminal** a text based interface where you can command, manipulate files and execute programs.Start by typing :**cd mods** then **bash mods** and **enter**.
  
 
 In mods **right click**on the module
@@ -22,7 +22,7 @@ In mods **right click**on the module
 click on **open programs**
 
 
-click on **machines** and then on **GX-GS 24 Vinyl Cutter**
+click on **machines** under **GX-GS 24 Vinyl Cutter** press **CUT**
 
 
 Let's move to the machine now:
@@ -54,7 +54,7 @@ if not you'll have to fix it as below
 **threshold** -> 0.9
 
 
-**device server** and **print server** -> close scokets
+**device server** and **print server** -> close sockets
 
 
 after **re-open** sockets on **device server**
@@ -76,7 +76,7 @@ Recommended speed below:
 AND IT'S STARTING
 
 
-at the end take a your piece out,put the **handle down** cut the extra edges and your vinyl is ready.
+at the end take a your piece out,put the **handle down** cut the extra edges and your sticker is ready.
 
 
 
