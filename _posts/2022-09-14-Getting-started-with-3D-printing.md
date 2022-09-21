@@ -31,12 +31,18 @@ For any overhangs you can use the tool: paint-on-support to add extra support in
 
 
 Attention! 
+
+
 Before slicing you must check your filament material
+
+
 Support : for support enforcers only
+
+
 The printer that you gonna print with is the one in the description
 
 
-Press SLice
+Press Slice
 
 
 Export the document to a gcode file
@@ -45,10 +51,10 @@ Export the document to a gcode file
 Save it your Sdcard that goes with your printer
 
 
-Machine instructions:
+**Machine instructions:**
 
 
-Start by choosing your filament and vut the edge in a diagonal way for an easier insert
+Start by choosing your filament and cut the edge in a diagonal way for an smooth insert
 
 
 Insert the filament
@@ -60,19 +66,19 @@ Clean the surface with a special wiper and product for the printers
 Open the machine
 
 
-Choose preheat PLA filament
+Choose: preheat PLA filament
 
 
 The machine will start extruding the old filament you will have to clean it up Attention! its burning so better use a tool or an extension
 
 
-If any callibration is needed, ypu can adjust the bed height.
+If any callibration is needed, you can adjust the bed height.
  
 
 Choose your file and start with printing
 
 
-Check the forst minutes to see if everything is printing properly
+Check the first minutes to see if everything is printing properly
 
 
 You pause to check what is happening to your model or stop the process instead of waisting any filament and then start all over again
