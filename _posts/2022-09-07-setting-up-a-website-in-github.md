@@ -69,13 +69,41 @@ Visual studio code starting up
 Templates problems
 
 
-URL problems encounters
+URL problems encounters:
+
+Encoutered few troubleshooting problem and the source was the url my website wasn't uploading the theme only the text. Following the instruction in that website I've changed the "url" to simple url and 
+#comment out the base url.
 
 
-permalink
+https://mademistakes.com/mastering-jekyll/site-url-baseurl/#markdown-links
 
 
-markdowns
+permalink:
 
 
-helpfull coding commands
+Permalinks are the output path for your pages, posts, or collections. They allow you to structure the directories of your source code different from the directories in your output.
+
+markdowns:
+
+
+markdowns and posts generally follow standard naming conventions of YYYY-MM-DD-filename.md inside of a _posts directory, like this you'll be alble to track down your file, then every file should start as follows
+
+
+---
+layout: post
+title: "file title"
+subtitle: ""
+date: 2022-09-08
+background: '/PATH_TO_IMAGE'
+---
+
+
+https://www.markdownguide.org/cheat-sheet
+
+
+helpfull coding commands:
+
+
+gem install jekyll bundler//jekyll new myblog//cd myblog//bundle exec jekyll serve//jekyll trace//git add .//git commit -u//git commit -a//git push//
+
+code --help
