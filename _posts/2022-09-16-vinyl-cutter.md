@@ -16,7 +16,7 @@ Depending on your software of choice make sure to save your file in black and wh
 In fablab we use the **CAMM-1 GX-24 Roland** vinyl cutter, already connected to the pc which uses **Ubuntu**. Next step is to open **terminal** a text based interface where you can command, manipulate files and execute programs.Start by typing :**cd mods** then **bash mods** and **enter**.
  
 
-In mods **right click**on the module
+In mods **right click**on the module 
 
 
 click on **open programs**

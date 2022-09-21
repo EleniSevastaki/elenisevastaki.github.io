@@ -38,3 +38,8 @@ thermo pressing tutorial with VEVOR machine
 
 **September 19th 2022**
 Worked on documentation in the website
+Cutted another sticker with the vinyl cutter with the stable blade
+
+
+**September 21st 2022**
+Resizing pictures and uploaded them in Visual Studio Code

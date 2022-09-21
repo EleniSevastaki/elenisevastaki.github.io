@@ -60,7 +60,7 @@ Finally, download VSC to do change on your selected template and run your websit
 
 
 
-**PROBLEPMS SOLVING**
+**PROBLEMS SOLVING**
 
 
 Visual studio code starting up
