@@ -1,0 +1,60 @@
+I"B
+<p>Welcome to an introdcuction to vinyl cutting!</p>
+
+<p>Let’s begin with your design:</p>
+
+<p>Depending on your software of choice make sure to save your file in black and white and the <strong>white area is the removable area</strong>, hence the black one the design of your final product. Then, save your file as an <strong>SVG</strong> file.</p>
+
+<p>In fablab we use the <strong>CAMM-1 GX-24 Roland</strong> vinyl cutter, that is already connected to the 
+PC which uses <strong>Ubuntu</strong>. Next step is to open <strong>terminal</strong> a text based interface where you can command, manipulate files and execute programs.Start by typing :<strong>cd mods</strong> then <strong>bash mods</strong> and <strong>enter</strong>.</p>
+
+<p>In mods <strong>right click</strong>on the module</p>
+
+<p>click on <strong>open programs</strong></p>
+
+<p>click on <strong>machines</strong> under <strong>GX-GS 24 Vinyl Cutter</strong> press <strong>CUT</strong></p>
+
+<p>Let’s move to the machine now:
+Open the machine with the switch on button. Start by adjusting the wheels under the white stripes shown as below:</p>
+
+<p>Choose the roller or piece of your choice go to th back of the machine and put the <strong>handle down</strong> and insert the material from behind under the wheels adjust again the wheels if needed and press the <strong>handle up</strong></p>
+
+<p>Attention!! if you are using a normal vinyl the sticker should face up if your using a thermal sticker the sticker should face down.</p>
+
+<p>Last choose for sheet: roll or piece depending on your sizing</p>
+
+<p>Back to your PC in mods:</p>
+
+<p>select your SVG file</p>
+
+<p>Attention!! again your removable area is the white one
+if not you’ll have to fix it as below</p>
+
+<p><strong>Inscape</strong> 
+-Open you file in inscape software
+-Adjsust margins click: 
+-Resize page to drawing selective (settings)
+-Margins add 2
+-Extession color: engative 
+-Check size</p>
+
+<p><strong>threshold</strong> -&gt; 0.9</p>
+
+<p><strong>device server</strong> and <strong>print server</strong> -&gt; close sockets</p>
+
+<p>after <strong>re-open</strong> sockets on <strong>device server</strong></p>
+
+<p>Go to Roland GX/GS 24 and add <strong>force</strong>-&gt;65 <strong>speed</strong>-&gt;1 
+Recommended speed below:</p>
+
+<p><strong>cut raster</strong>-&gt;calculate</p>
+
+<p><strong>vectorize, orient edge and edge detect</strong> check them out</p>
+
+<p><strong>websocket device</strong>-&gt; send  files to device</p>
+
+<p>AND IT’S STARTING</p>
+
+<p>at the end take a your piece out,put the <strong>handle down</strong> cut the extra edges and your sticker is ready.</p>
+
+:ET

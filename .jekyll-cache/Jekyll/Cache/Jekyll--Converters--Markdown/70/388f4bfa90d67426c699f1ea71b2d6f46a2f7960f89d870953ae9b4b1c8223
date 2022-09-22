@@ -1,0 +1,55 @@
+I"ç<p>This in an introduction to one of the 3D printers Prusa i3 3MKS used in the fablab.
+To begin we start by the the digital product and then we transit to the physical product.</p>
+
+<p>Download Prusa Slicer, (I downloaded the 2.5.0 version but I recommend to check with your 3D printers)</p>
+
+<p>Choose your printers and nozzle</p>
+
+<p>Open you file in Prusa slicer your can drag also the file in an open windows of the software</p>
+
+<p>Choose your Mode: Expert</p>
+
+<p>Scale your model to your preferences</p>
+
+<p>Center your model</p>
+
+<p>For any overhangs you can use the tool: paint-on-support to add extra support in your model</p>
+
+<p>Attention!</p>
+
+<p>Before slicing you must check your filament material</p>
+
+<p>Support : for support enforcers only</p>
+
+<p>The printer that you gonna print with is the one in the description</p>
+
+<p>Press Slice</p>
+
+<p>Export the document to a gcode file</p>
+
+<p>Save it your Sdcard that goes with your printer</p>
+
+<p><strong>Machine instructions:</strong></p>
+
+<p>Start by choosing your filament and cut the edge in a diagonal way for an easier insert</p>
+
+<p>Insert the filament</p>
+
+<p>Clean the surface with a special wiper and product for the printers</p>
+
+<p>Open the machine</p>
+
+<p>Choose preheat PLA filament</p>
+
+<p>The machine will start extruding the old filament you will have to clean it up Attention! its burning so better use a tool or an extension</p>
+
+<p>If any callibration is needed, ypu can adjust the bed height.</p>
+
+<p>Choose your file and start with printing</p>
+
+<p>Check the forst minutes to see if everything is printing properly</p>
+
+<p>You pause to check what is happening to your model or stop the process instead of waisting any filament and then start all over again</p>
+
+<p>Good luck!</p>
+:ET
