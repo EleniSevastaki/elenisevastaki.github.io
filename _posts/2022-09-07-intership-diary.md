@@ -43,3 +43,13 @@ Cutted another sticker with the vinyl cutter with the stable blade final succefu
 
 **September 21st, 2022**
 Resizing pictures and uploaded them in Visual Studio Code. Encoutered problems in uploading pictures on the Explorer.
+
+
+**September 22nd, 2022**
+Worked on pitures for the website
+prepared file for Lazer cutting tutorial
+
+
+**September 23rd, 2022**
+Lazer cutting tutorial by Farah
+
