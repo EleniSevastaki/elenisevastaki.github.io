@@ -1,0 +1,66 @@
+I"E	<p><strong>INTODUCTION</strong></p>
+
+<p>Fablab is using the BMR1612 model from BRM Original Laser Machine. The fume extractor with hepa filter is a BOFA AD Oracle.</p>
+
+<p>To start you will need to save your file as an <strong>DFX</strong> file:</p>
+
+<p>Drawing Exchange Format or Drawing Interchange Format and is a type of vector file</p>
+
+<p>Choose your material and measure the thikness with a <em>caliper</em>.</p>
+
+<p>Caliper is a device used to measure the dimensions of an object</p>
+
+<p><strong>GETTING STARTED FOR THE MACHINE</strong></p>
+
+<p>Start by pressing button 1 and switch button 2 as shown in the picture</p>
+
+<p>measure your material surface area.</p>
+
+<p>Open the cover ALWAYS with two hands.</p>
+
+<p>Position your material on the lazer surface if your material is too thick you can add tape to stabilize it.</p>
+
+<p>calibrate the nozzle by loosening the ring and fastening it again. There should be always a starting distance between your nozzle and material you can use the reference tool as a guide.</p>
+
+<p>Close the cover again with your TWO HANDS</p>
+
+<p><strong>TO THE COMPUTER</strong></p>
+
+<p>add your usb in the computer</p>
+
+<p>Go to your computer an open <strong>LIGHTBURN</strong> software:</p>
+
+<p>LightBurn is layout, editing, and control software for your laser cutter</p>
+
+<p>Press <strong>File</strong></p>
+
+<p>Press <strong>Open file</strong> and choose your file</p>
+
+<p>Lightburn works on layers be sure that you are working on the right layer</p>
+
+<p>Check the example board for your reference material and choose a suitable speed and power as shown below:</p>
+
+<p>Speed
+Max power
+Min power</p>
+
+<p>output</p>
+
+<p>Press <strong>Start</strong> but beforehand the machine should be ready to use as described below.</p>
+
+<p><strong>TO THE MACHINE</strong></p>
+
+<p>Switch on the button number 3</p>
+
+<p>Plug in the fan (fume extrator)</p>
+
+<p>make a test if needed*</p>
+
+<p><strong>AFTER PRINTING</strong></p>
+
+<p>WAIT until your product is properly cool and if you had an acryllic material wait until the fume extractor absorbs most of the fumes.</p>
+
+<p>Then open the lid again with your TWO HANDS and check the results</p>
+
+<p>Closing the machine: do not forget to close the machine the way you’ve opened first the fume extrator, then the button number 3. then the usb, then the computer and last the buttons number 1 and 2.</p>
+:ET
