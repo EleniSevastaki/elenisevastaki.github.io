@@ -52,4 +52,11 @@ prepared file for Lazer cutting tutorial
 
 **September 23rd, 2022**
 Lazer cutting tutorial by Farah
+RGM soldering tutorial by Michelle
+
+
+**September 26th, 2022**
+Documentation adjust
+Modela tutorial by Hazal
+
 
