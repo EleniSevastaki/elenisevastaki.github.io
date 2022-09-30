@@ -1,0 +1,162 @@
+I"�<p>Introduction PCBs (Printed Circuit Board)</p>
+
+<p>Chips</p>
+
+<p>Programmer
+a device that automatically controls the operation of something in accordance with a prescribed program.</p>
+
+<p>Bootloading
+A boot loader, also called a boot manager, is a small program that places the operating system (OS) of a computer into memory.</p>
+
+<p>USB serial</p>
+
+<p>Introduction to Modela machine:</p>
+
+<p>At the fablab we use the: Modela MDX-20 3D milling machine
+The instructions below are for copper and paper plates only and not copper to copper or glass.</p>
+
+<p>There are three important things to prepare in the machine before working with the software:</p>
+
+<p><strong>TO THE MACHINE</strong></p>
+
+<p><strong>Command buttons</strong>: 
+You can switch on and the machine
+You can look at your piece, by bringing it close to the edge of the machine
+You can bring the the drill up and down</p>
+
+<p><strong>Layers of the machine</strong>:</p>
+
+<p>There are 4 layers on the plate:</p>
+
+<p>1) Plastic see trough plate (acryllic material)</p>
+
+<p>2) Acrylic plate (white color)</p>
+
+<p>3) Sacrificial layer (that is also made of copper in case we drill to deep)</p>
+
+<p>4) Copper plate</p>
+
+<p><strong>It is important before we use our copper plate to measure it’s thickness precisely with the help of a caliper</strong></p>
+
+<p>You can fasten and unfasten the layers with the screw on the side.</p>
+
+<p>We always position the layers on the left bottom corner</p>
+
+<p><strong>Drill and bits</strong>:</p>
+
+<p>At the fablab we use two milling bits</p>
+
+<p>0.4: for the interior and details</p>
+
+<p>0.8: to cut the final product out</p>
+
+<p>You take out and adjust the bit as shown below</p>
+
+<p>Attention do not let the bit drop they will break easily, always use you your hand below!!</p>
+
+<p><strong>TO THE COMPUTER</strong></p>
+
+<p>As a first note, there is a certain flow on how we mill our design. We always go from interior to exterior and from thinner milling bit to thicker milling bit.</p>
+
+<p>Attention when connecting the computer it shouldn’t be on VIEW mode</p>
+
+<p>open: Terminal</p>
+
+<p>Type: Mods</p>
+
+<p>Press: Enter</p>
+
+<p><strong>In Mods</strong>:</p>
+
+<p>click on the left corner</p>
+
+<p>Click: Programs</p>
+
+<p>Click: Open programs</p>
+
+<p>Machine, Click: MDX mill-&gt; PCB</p>
+
+<p>go to: Websocket serial and click: close socket, close port</p>
+
+<p>go on: next to Websocket pyserial and click: close socket, close port</p>
+
+<p>AND then to Websocket serial and click: open socket, open port</p>
+
+<p>go to Read png and click on: select png and choose your 
+IMPORTANT: part to keep White, part to go Black</p>
+
+<p>Set your DPI to 1000</p>
+
+<p>go to Mill raster 2D:
+ and then press: Calculate
+ it will show you your design or press view to check it out.</p>
+
+<p>go to threshold:
+ fill it to 0,5</p>
+
+<p>go to Roland MDX/imodela
+ and you can manipulate the x and y axis via the computer and z axis via the machine
+ example: if you have already some millings on your plate and you want to finish some of them , you do by adding in x or y some extra numbers to your choice and press: move to origin</p>
+
+<p>under jobsettings:
+ fill in cut speed: 4
+ jog: 2 (redline path jumping indications)</p>
+
+<p><strong>BACK TO THE MACHINE</strong></p>
+
+<p>you can adjust the z axis by pressing the buttons UP and DOWN, after adgusting it to it’s proper height as shown below, you can adjust the bit: loosen up caterfully with the torx wrench until the bit touches the plate, fasten it again you’re ready to start</p>
+
+<p>Go to: Websocket serial 
+Press: send file</p>
+
+<p>when finished do not forget to vacuum the plate</p>
+
+<p><strong>FOR THE OUTLINE</strong></p>
+
+<p>Change the milling bit as decripted above we need a 0.8bit now</p>
+
+<p>Move the mill to the origin and level the z-axis</p>
+
+<p>Select your new file again, again DPI: 1000</p>
+
+<p>Go to: mill raster 2D</p>
+
+<p>Set tool diameter: 0.8</p>
+
+<p>Set cut depth: 0.6mm and max depth the the plates thickness that you calculated in the beginning.</p>
+
+<p>Press : calculate</p>
+
+<p>Press: view and check your file</p>
+
+<p>the rest you can leave them with the same numbers as the previous milling.</p>
+
+<p>Go to: Websoscket serial</p>
+
+<p>Press: send file</p>
+
+<p>Again do not forget to vacuum the plate</p>
+
+<p><strong>TO PAUSE THE PROCESS</strong></p>
+
+<p>go to the machine at the command buttons and press: VIEW</p>
+
+<p><strong>TO STOP THE PROCESS</strong></p>
+
+<p>Press: VIEW</p>
+
+<p>Press: UP and DOWN buttons at the same time</p>
+
+<p>Press: move home and stop</p>
+
+<p><strong>WHEN FINISHED</strong></p>
+
+<p>Press: VIEW</p>
+
+<p>vacuum the area</p>
+
+<p>extract your piece with the spatula carefully not to snap the copper</p>
+
+<p>clean your compartments with tweezers and a scalpel if needed</p>
+
+:ET
