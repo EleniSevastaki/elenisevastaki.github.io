@@ -60,3 +60,15 @@ Documentation adjust
 Modela tutorial by Hazal
 
 
+**September 28th, 2022**
+Milling a copper compartment on PVB modela machine
+Fixed the lamp issue on the RGB compartment 
+
+
+
+**September 29th, 2022**
+Worked on documentation for pcb modela machine
+
+
+**September 30th, 2022**
+Worked on documentation
