@@ -29,6 +29,9 @@ Heatgun and Desoldering Wick Braid Remover (for mistakes)
 
 **PREPARING THE COMPONENTS**
 
+Plug in your solder 
+
+Lay all the parts in front of you
 
 **START TO SOLDER**
 
@@ -57,12 +60,19 @@ Start with the rest of legs
 Now just by warming up the surface and dropping lead on the legs
 
 You can tell a nice solder connection by these five qualities:
+
 The solder flowed nicely around the pad and lead -- no lumps
+
 The surface of the solder is smooth -- not lumpy
+
 The solder totallycovers the entire pad -- you can't see any bare pad
+
 The solder forms a little mountain -- not flat
+
 There is no solder blob connecting your soldered pad to any other pad
-There is a lot of leeway between not enough solder (soldered connection is flat, or you can see some bare pad) and too much solder (a huge blob that shorts out to another pad). This is why soldering is easy!
+
+There is a lot of leeway between not enough solder (soldered 
+connection is flat, or you can see some bare pad) and too much solder (a huge blob that shorts out to another pad). This is why soldering is easy!
 
 **HOW TO FIX A MISTAKE**
 
@@ -80,7 +90,7 @@ There are 3 ways to collect execive excessive lead back:
 
 This process requires a lot of precision, a good lamp and maybe loop will help you in this job.
 
-To control you components use the tweezers, this will help them stay in place
+To control you components use the tweezers, this will help you with stabilizing the components
 
 Always check with the multimetter if your soldering is successfull
 

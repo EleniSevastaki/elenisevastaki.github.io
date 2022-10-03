@@ -6,27 +6,36 @@ date: 2022-09-23
 background: '/PATH_TO_IMAGE'
 ---
 A small introduction to electonic components soldering:
+
 **MATERIALS AND TOOLS**
-**PREPARING THE COMPONENTS**
-**START TO SOLDER**
-**HOW TO FIX A MISTAKE**
-**IMPORTANT NOTES**
 
-Through Hole Devices soldering
-
-Step 01:
-These are the tools you will need:
 Soldering Iron (35W or less)
+
 Solder wire (recommendation: 60/40 rosin core, 0.031" diameter or less)
-Soldering Iron Stand (a bent wire coat hangar works fine)
-cellulose kitchen sponge (not plastic)
-small Wire Cutters
+
+Soldering Iron Stand 
+
+Iron tip Cleaner: cellulose kitchen sponge (not plastic) to clean the corrosion
+
+Small Wire Cutters
+
+Tweezers 
+
+Lamp 
+
+**PREPARING THE COMPONENTS**
+
+Plug in your solder 
+
+Wet your sponge
+
+Lay all the parts in front of you
 
 
-	
-Step 02:
-Lay out all of the parts in front of you. 
 
+**START TO SOLDER**
+
+the soldering instructed today is for: **Through Hole Devices soldering**
 
 Step 03:
 We will start with resistor R1. The colored bands indicate the value of the resistor. 
@@ -37,9 +46,6 @@ The colored bands for R1 can be either:
 The wires of all resistors should be bent down on both sides of the part, as shown.
 
 Another word for wires that come out of electronic parts is "leads" (pronounced "leeds").
-
-wire thickness: 50mm
-
 	
 Step 04:
 Push the leads from R1 into the pads for R1 on the PCB.
@@ -101,3 +107,20 @@ IMPORTANT: Notice that there is a notch on the black drawing for IC1 that matche
 
 IMPORTANT: Make sure the pins of the IC1 socket are straight, and slide easily into their 8 pads. These pins bend easily, so if one or more are crooked, gently straighten them with your fingers before inserting the socket into place.
 
+**HOW TO FIX A MISTAKE**
+
+There are 3 ways to collect execive excessive lead back:
+
+1) Heat Gun just to to heat up the area
+
+2) with a solder iron vacuum pump
+
+3) with a desoldering Wick Braid Remover
+
+4) with Liquid Flux
+
+**IMPORTANT NOTES**
+
+To control you components use the tweezers, this will help you with stabilizing the components
+
+Always check with the multimetter if your soldering is successfull
