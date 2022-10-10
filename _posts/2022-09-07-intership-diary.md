@@ -72,3 +72,9 @@ Worked on documentation for pcb modela machine
 
 **September 30th, 2022**
 Worked on documentation
+
+**October 3rd, 2022**
+
+**October 5th, 2022**
+
+**October 10th, 2022**
