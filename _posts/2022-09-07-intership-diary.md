@@ -78,3 +78,8 @@ Worked on documentation
 **October 5th, 2022**
 
 **October 10th, 2022**
+
+**October 11th, 2022**
+
+**October 13th,2022**
+Documentation on Cnc milling machine
