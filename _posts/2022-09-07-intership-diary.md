@@ -83,3 +83,9 @@ Worked on documentation
 
 **October 13th,2022**
 Documentation on Cnc milling machine
+
+--Absence--
+
+**October 27th, 2022**
+Research on daylight sensors
+Documentation on nc milling machine
