@@ -209,6 +209,8 @@ CLICK->CALCULATE
 
 **Shopbot software**
 
+Always open the shopbot software before the machine, if not it will indicate that there is no connection
+
 
 **Fasten your material**
 
@@ -232,22 +234,62 @@ Type of screws: we use Woodies a type of screws that do not brake easily for the
 
 **AXES**
 
+here you can start to adjust your axes to your desired center
+
 Click-> XY
+
 Press ->K
+
 Click-> (Z) Zero
+
 Click Z [2 ] 
 
 For Z axis
+
 Press K
+
 Move axis to clear point with keys
+
+check with the metal plate if there is a connection, 
+inp 1 will light green if not not check the aligator clip is fastened or if there particles on the milling bit or metal plate  
+
 Press-> Z
+
 Safety measures-> OK
 
 press-> space bar to pause
+
+Take a picture of your coordinates in case of power outage.
 
 
 **STARTING WITH THE MACHINE**
 
 Starting the job
 
+Load part file -> folder 
+
+open screw toolpath
+
+Use key to turn on spindle
+
+check for any irregularities on the spindle
+
+switch on the ventillation
+
+see if there is a green light and check the ventilation room
+
+wear ear and eyes protection
+
+
+
 **AFTER YOU FINISHED WITH YOUR JOB**
+
+-Stop the ventilation
+
+-Take out the screw of your material (remember that you counted the screw beforehand)
+
+-take out your material
+
+-Detach your parts away and sand them
+
+-vacuum the surface 
