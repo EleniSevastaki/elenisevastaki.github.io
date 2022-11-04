@@ -89,3 +89,12 @@ Documentation on Cnc milling machine
 **October 27th, 2022**
 Research on daylight sensors
 Documentation on nc milling machine
+
+**October 31st, 2022**
+Worked on Documentation
+
+**November 3rd, 2022**
+KiCAD tutorial
+color sensor and ambient sensor research
+
+**November 4th, 2022**
