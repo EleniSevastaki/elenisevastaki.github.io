@@ -73,13 +73,6 @@ Worked on documentation for pcb modela machine
 **September 30th, 2022**
 Worked on documentation
 
-**October 3rd, 2022**
-
-**October 5th, 2022**
-
-**October 10th, 2022**
-
-**October 11th, 2022**
 
 **October 13th,2022**
 Documentation on Cnc milling machine
@@ -98,3 +91,5 @@ KiCAD tutorial
 color sensor and ambient sensor research
 
 **November 4th, 2022**
+KiCAD tutorials
+Makers skills course, lasercutting

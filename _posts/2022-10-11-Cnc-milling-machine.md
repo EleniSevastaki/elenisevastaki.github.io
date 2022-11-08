@@ -6,7 +6,7 @@ date: 2022-10-11
 background: '/PATH_TO_IMAGE'
 ---
 
-**IMPORTANT SAFETY MEASURES**
+* IMPORTANT SAFETY MEASURES
 
 Materials danger:
 
@@ -31,7 +31,7 @@ Even if all the precaustions are taken, there could be dangerous materials in ro
 
 **NEVER EVER LEAVE THE MACHINE UNSUPERVISED WHEN IT'S ON**
 
-**MACHINE DATA**
+* MACHINE DATA
 
 The fablab is using a Shopbot machine
 
@@ -41,39 +41,45 @@ VCARVE software provides a powerful but intuitive software solution for creating
 
 the maximum dimensions for milling are 1,22m x 2,44m
 
-**MACHINE COMPONENTS**
+* MACHINE COMPONENTS
 
 Varis-speed
-(Photo)
 
-Ventilation buttons
-(Photo)
+![varis speed](/img/shopbotimages/varispeed%2044.jpeg)
+
 
 Ventilation room
-(Photo)
+
+![ventilation room](/img/shopbotimages/ventilation%20room223.jpeg)
 
 Ventilation switch in corner of the room
-(Photo)
 
-Ventilation at last buttons
-(Photo)
+![ventilation corner](/img/shopbotimages/ventilation%20corner%20250.jpeg)
+
+ventilation button
+
+![ventilation buton](/img/shopbotimages/emergency%20shut%20down%20button%20443.jpeg)
 
 Turn on-off switch
-(Photo)
+
+![turn switch](/img/shopbotimages/turn%20on%20button%20443.jpeg)
+
 
 Emergency shut down button
-(Photo)
 
-**GENERAL LAYOUT OF THE MACHINE**
-(photo)
+![emergency button](/img/shopbotimages/emergency%20stutt%20down%20nutton%20443.jpeg)
 
-**MACHINE PREPARATION**
+* GENERAL LAYOUT OF THE MACHINE
 
-                       Preparing your machine
+![general layout](/img/shopbotimages/general%20layout%20of%20shopbot%20adj22.jpg)
+
+* MACHINE PREPARATION
+
+Preparing your machine
 
 1) Clean table by vaccuming it in case there are residues from the previous user
 
-                       Preparing your material
+Preparing your material
 
 2) Measure the thickness of your material with a caliper from different angles
 
@@ -85,22 +91,30 @@ Emergency shut down button
 
 6) Check your material expecially if it's a recycled one for any screws and abnormalities 
 
-**MILLING BITS** 
+* MILLING BITS
 
 Collet: is essentially what holds the tool bit in place within the CNC Router and therefore is an integral part of machining
 
+![collet](/img/shopbotimages/collet%20443.jpeg/)
+
 Nut: Collet chuck nuts are threaded fasteners that secure collets to collet chucks
+
+![nut](/img/shopbotimages/nut%20443.jpeg)
 
 Bit: CNC router bits are the cutting implement at the end of the spindle on a CNC router. 
 
-(Photo)
+\
+Flutes: Flutes are the sharp slots that corkscrew upwards along the length of a milling bit. They are responsible for doing the cutting work when the bit is spinning. Bits come with 2, 3, or 4 flutes. A bit with more flutes has more cutting edges and consequently cuts faster and smoother than a bit with fewer flutes.
 
- Flutes: Flutes are the sharp slots that corkscrew upwards along the length of a milling bit. They are responsible for doing the cutting work when the bit is spinning. Bits come with 2, 3, or 4 flutes. A bit with more flutes has more cutting edges and consequently cuts faster and smoother than a bit with fewer flutes.
+End of the bit: 
  
- End of the bit: 
+Ball nose
+
+![ball nose](/img/shopbotimages/ball%20nose%20443.jpeg)
  
- Ball nose(photo)
  End mill(photo)
+
+ ![end mill](/img/shopbotimages/end%20mill44.jpeg)
 
 Changing the milling bit:
 
@@ -138,7 +152,7 @@ Fasten the router with wrenches
 
 Fix the skirt back
 
-**Vcarve software**
+* Vcarve software
 
 A) Prepare your file : The files suppoted by Vcarve are
 
@@ -147,20 +161,26 @@ After Vcarve your file will be a crv
 B) Open your new file on Vcarve
 
 C) Job Setup
-(Photo)
+
+![job setup](/img/shopbotimages/job%20setup.JPG)
 
 Drawing- fillet
 
-D) TOOLPATH
-(Photo)
+![fillet](/img/shopbotimages/fillet.JPG)
 
-1.Drilling toolpath (Photo)
+D) TOOLPATH
+
+1.Drilling toolpath 
+
+![drilling toolpath](/img/shopbotimages/drilling%20toolpath.JPG)
 
 Cutting depth: start depth-> 0.0mm and cut depth-> 3.0mm
 
 Tool: Select tool (your milling bit) from tool database in the tool list of fablab amsterdam, choose your tool type and required parameters.
 
-Edit tool: (photo)
+Edit tool:
+
+![edit tool](/img/shopbotimages/edit%20tool.JPG)
 
 Cutting parameters-> 
 
@@ -181,25 +201,29 @@ tool number: 1 (cause only one milling bit is used)
 CLICK-> APPLY
 CLICK-> CALCULATE and the close
 
-2.Pocket toolpath (Photo)
+2.Pocket toolpath 
 
 The priority in toolpaths goes from Drilling-Pockets-Inner Contours-Outer Contours
 
 -Raster
-(Photo)
+
+![pocket toolpath raster](/img/shopbotimages/pocket%20toolpatch%20raster.JPG)
 
 -Offset
-(Photo)
+
+![pocket toolpath](/img/shopbotimages/pocket%20toolpatch%20offset.JPG)
 
 CLICK-> CALCULATE
 
 3.Profile toolpath
 
 -inner profiles
-(Photo)
+
+![profile inside](/img/shopbotimages/profile%20toolpath%20inside.JPG)
 
 -outer profiles
-(Photo)
+
+![profile outside](/img/shopbotimages/profile%20toolpath%20outside.JPG)
 
 E) Save your toolpath in two or different files one for the drilling, one for your design.
 
@@ -207,12 +231,12 @@ F) for shopbot your file
 
 CLICK->CALCULATE
 
-**Shopbot software**
+* Shopbot software
 
 Always open the shopbot software before the machine, if not it will indicate that there is no connection
 
 
-**Fasten your material**
+* Fasten your material
 
 Depending on your material size and thickness you will need to screw your material on the sacrificial layer.
 
@@ -232,7 +256,9 @@ When making your toolpath for your design, add another toolpath for your screws,
 
 Type of screws: we use Woodies a type of screws that do not brake easily for the millings convinience.
 
-**AXES**
+* AXES
+
+![axes](/img/shopbotimages/axes.JPG)
 
 here you can start to adjust your axes to your desired center
 
@@ -262,7 +288,7 @@ press-> space bar to pause
 Take a picture of your coordinates in case of power outage.
 
 
-**STARTING WITH THE MACHINE**
+* STARTING WITH THE MACHINE
 
 Starting the job
 
@@ -282,7 +308,7 @@ wear ear and eyes protection
 
 
 
-**AFTER YOU FINISHED WITH YOUR JOB**
+* AFTER YOU FINISHED WITH YOUR JOB
 
 -Stop the ventilation
 
