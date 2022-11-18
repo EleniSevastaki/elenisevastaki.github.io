@@ -93,3 +93,10 @@ color sensor and ambient sensor research
 **November 4th, 2022**
 KiCAD tutorials
 Makers skills course, lasercutting
+
+**November 8th, 2022**
+Worked on kicad and documentation
+
+**November 10th, 2022**
+
+**November 22th, 2022**
