@@ -71,7 +71,7 @@ Emergency shut down button
 
 **GENERAL LAYOUT OF THE MACHINE**
 
-![general layout](/img/shopbotimages/general%20layout%20of%20shopbot%20adj22.JPG)
+![general layout](/img/shopbotimages/general%20layout%20of%20shopbot%20adj22.jpg)
 
 **MACHINE PREPARATION**
 
