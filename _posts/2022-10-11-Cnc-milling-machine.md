@@ -45,33 +45,33 @@ the maximum dimensions for milling are 1,22m x 2,44m
 
 Varis-speed
 
-![varis speed](/img/shopbotimages/varispeed%2044.jpeg)
+![varis speed](/img/shopbotimages/varispeed%2044.JPG)
 
 
 Ventilation room
 
-![ventilation room](/img/shopbotimages/ventilation%20room223.jpeg)
+![ventilation room](/img/shopbotimages/ventilation%20room223.JPG)
 
 Ventilation switch in corner of the room
 
-![ventilation corner](/img/shopbotimages/ventilation%20corner%20250.jpeg)
+![ventilation corner](/img/shopbotimages/ventilation%20corner%20250.JPG)
 
 ventilation button
 
-![ventilation buton](/img/shopbotimages/emergency%20shut%20down%20button%20443.jpeg)
+![ventilation buton](/img/shopbotimages/emergency%20shut%20down%20button%20443.JPG)
 
 Turn on-off switch
 
-![turn switch](/img/shopbotimages/turn%20on%20button%20443.jpeg)
+![turn switch](/img/shopbotimages/turn%20on%20button%20443.JPG)
 
 
 Emergency shut down button
 
-![emergency button](/img/shopbotimages/emergency%20stutt%20down%20nutton%20443.jpeg)
+![emergency button](/img/shopbotimages/emergency%20stutt%20down%20nutton%20443.JPG)
 
 * GENERAL LAYOUT OF THE MACHINE
 
-![general layout](/img/shopbotimages/general%20layout%20of%20shopbot%20adj22.jpg)
+![general layout](/img/shopbotimages/general%20layout%20of%20shopbot%20adj22.JPG)
 
 * MACHINE PREPARATION
 
@@ -95,11 +95,11 @@ Preparing your material
 
 Collet: is essentially what holds the tool bit in place within the CNC Router and therefore is an integral part of machining
 
-![collet](/img/shopbotimages/collet%20443.jpeg/)
+![collet](/img/shopbotimages/collet%20443.JPG/)
 
 Nut: Collet chuck nuts are threaded fasteners that secure collets to collet chucks
 
-![nut](/img/shopbotimages/nut%20443.jpeg)
+![nut](/img/shopbotimages/nut%20443.JPG)
 
 Bit: CNC router bits are the cutting implement at the end of the spindle on a CNC router. 
 
@@ -110,7 +110,7 @@ End of the bit:
  
 Ball nose
 
-![ball nose](/img/shopbotimages/ball%20nose%20443.jpeg)
+![ball nose](/img/shopbotimages/ball%20nose%20443.JPG)
  
  End mill(photo)
 
