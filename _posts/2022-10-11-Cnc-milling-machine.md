@@ -6,7 +6,7 @@ date: 2022-10-11
 background: '/PATH_TO_IMAGE'
 ---
 
-* IMPORTANT SAFETY MEASURES
+** IMPORTANT SAFETY MEASURES**
 
 Materials danger:
 
@@ -31,7 +31,7 @@ Even if all the precaustions are taken, there could be dangerous materials in ro
 
 **NEVER EVER LEAVE THE MACHINE UNSUPERVISED WHEN IT'S ON**
 
-* MACHINE DATA
+**MACHINE DATA**
 
 The fablab is using a Shopbot machine
 
@@ -41,7 +41,7 @@ VCARVE software provides a powerful but intuitive software solution for creating
 
 the maximum dimensions for milling are 1,22m x 2,44m
 
-* MACHINE COMPONENTS
+**MACHINE COMPONENTS**
 
 Varis-speed
 
@@ -69,11 +69,11 @@ Emergency shut down button
 
 ![emergency button](/img/shopbotimages/emergency%20stutt%20down%20nutton%20443.JPG)
 
-* GENERAL LAYOUT OF THE MACHINE
+**GENERAL LAYOUT OF THE MACHINE**
 
 ![general layout](/img/shopbotimages/general%20layout%20of%20shopbot%20adj22.JPG)
 
-* MACHINE PREPARATION
+**MACHINE PREPARATION**
 
 Preparing your machine
 
@@ -91,7 +91,7 @@ Preparing your material
 
 6) Check your material expecially if it's a recycled one for any screws and abnormalities 
 
-* MILLING BITS
+**MILLING BITS**
 
 Collet: is essentially what holds the tool bit in place within the CNC Router and therefore is an integral part of machining
 
@@ -152,7 +152,7 @@ Fasten the router with wrenches
 
 Fix the skirt back
 
-* Vcarve software
+**Vcarve software**
 
 A) Prepare your file : The files suppoted by Vcarve are
 
@@ -231,12 +231,12 @@ F) for shopbot your file
 
 CLICK->CALCULATE
 
-* Shopbot software
+**Shopbot software**
 
 Always open the shopbot software before the machine, if not it will indicate that there is no connection
 
 
-* Fasten your material
+**Fasten your material**
 
 Depending on your material size and thickness you will need to screw your material on the sacrificial layer.
 
@@ -256,7 +256,7 @@ When making your toolpath for your design, add another toolpath for your screws,
 
 Type of screws: we use Woodies a type of screws that do not brake easily for the millings convinience.
 
-* AXES
+**AXES**
 
 ![axes](/img/shopbotimages/axes.JPG)
 
@@ -288,7 +288,7 @@ press-> space bar to pause
 Take a picture of your coordinates in case of power outage.
 
 
-* STARTING WITH THE MACHINE
+**STARTING WITH THE MACHINE**
 
 Starting the job
 
@@ -308,7 +308,7 @@ wear ear and eyes protection
 
 
 
-* AFTER YOU FINISHED WITH YOUR JOB
+**AFTER YOU FINISHED WITH YOUR JOB**
 
 -Stop the ventilation
 
