@@ -45,29 +45,29 @@ the maximum dimensions for milling are 1,22m x 2,44m
 
 Varis-speed
 
-![varis speed](/img/shopbotimages/varispeed%2044.JPG)
+![varis speed](/img/shopbotimages/varispeed%2044.JPEG)
 
 
 Ventilation room
 
-![ventilation room](/img/shopbotimages/ventilation%20room223.JPG)
+![ventilation room](/img/shopbotimages/ventilation%20room223.JPEG)
 
 Ventilation switch in corner of the room
 
-![ventilation corner](/img/shopbotimages/ventilation%20corner%20250.JPG)
+![ventilation corner](/img/shopbotimages/ventilation%20corner%20250.JPEG)
 
 ventilation button
 
-![ventilation buton](/img/shopbotimages/emergency%20shut%20down%20button%20443.JPG)
+![ventilation buton](/img/shopbotimages/emergency%20shut%20down%20button%20443.JPEG)
 
 Turn on-off switch
 
-![turn switch](/img/shopbotimages/turn%20on%20button%20443.JPG)
+![turn switch](/img/shopbotimages/turn%20on%20button%20443.JPEG)
 
 
 Emergency shut down button
 
-![emergency button](/img/shopbotimages/emergency%20stutt%20down%20nutton%20443.JPG)
+![emergency button](/img/shopbotimages/emergency%20stutt%20down%20nutton%20443.JPEG)
 
 **GENERAL LAYOUT OF THE MACHINE**
 
@@ -95,11 +95,11 @@ Preparing your material
 
 Collet: is essentially what holds the tool bit in place within the CNC Router and therefore is an integral part of machining
 
-![collet](/img/shopbotimages/collet%20443.JPG/)
+![collet](/img/shopbotimages/collet%20443.JPEG/)
 
 Nut: Collet chuck nuts are threaded fasteners that secure collets to collet chucks
 
-![nut](/img/shopbotimages/nut%20443.JPG)
+![nut](/img/shopbotimages/nut%20443.JPEG)
 
 Bit: CNC router bits are the cutting implement at the end of the spindle on a CNC router. 
 
@@ -110,7 +110,7 @@ End of the bit:
  
 Ball nose
 
-![ball nose](/img/shopbotimages/ball%20nose%20443.JPG)
+![ball nose](/img/shopbotimages/ball%20nose%20443.JPEG)
  
  End mill(photo)
 
