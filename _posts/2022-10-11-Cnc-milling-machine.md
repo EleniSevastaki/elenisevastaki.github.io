@@ -95,7 +95,7 @@ Preparing your material
 
 Collet: is essentially what holds the tool bit in place within the CNC Router and therefore is an integral part of machining
 
-![collet](/img/shopbotimages/collet%20443.jpeg/)
+![collet](/img/shopbotimages/collet%20443.jpeg)
 
 Nut: Collet chuck nuts are threaded fasteners that secure collets to collet chucks
 
@@ -130,7 +130,7 @@ and with CTRL+ Key (of your choice) you can go quicker
 
 Bring your router close to you and level up the z axis
 
-on the back of the skirt loosen up the Butterfly nut and remove the skirt (photo)
+on the back of the skirt loosen up the Butterfly nut and remove the skirt 
 
 Check the direction of the screw
 
@@ -139,14 +139,14 @@ unlock the black wrench from the on switch
 position the black wrench under and silver wrench above
 
 Now with with a rotating opposite motion loosen up the screw
-(Photo)
+
 
 dismantle the bit, nut and collet add your new collet and bit
-(Photo)
+
 
 Fasten the the collet in the nut and the bit in the collet
 attention do insert the bit deep enough.
-(Photo)
+
 
 Fasten the router with wrenches
 
