@@ -95,7 +95,7 @@ Preparing your material
 
 Collet: is essentially what holds the tool bit in place within the CNC Router and therefore is an integral part of machining
 
-![collet](/img/shopbotimages/collet%20443.jpeg)
+![collet](/img/shopbotimages/collet%20443.JPEG/)
 
 Nut: Collet chuck nuts are threaded fasteners that secure collets to collet chucks
 
