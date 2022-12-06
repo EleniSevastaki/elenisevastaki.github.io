@@ -54,7 +54,7 @@ Ventilation room
 
 Ventilation switch in corner of the room
 
-![ventilation corner](/img/shopbotimages/ventilation%20corner%20250.jpeg
+![ventilation corner](/img/shopbotimages/ventilation%20corner%20250.jpeg)
 
 ventilation button
 
@@ -103,7 +103,7 @@ Nut: Collet chuck nuts are threaded fasteners that secure collets to collet chuc
 
 Bit: CNC router bits are the cutting implement at the end of the spindle on a CNC router. 
 
-\
+
 Flutes: Flutes are the sharp slots that corkscrew upwards along the length of a milling bit. They are responsible for doing the cutting work when the bit is spinning. Bits come with 2, 3, or 4 flutes. A bit with more flutes has more cutting edges and consequently cuts faster and smoother than a bit with fewer flutes.
 
 End of the bit: 
@@ -112,7 +112,7 @@ Ball nose
 
 ![ball nose](/img/shopbotimages/ball%20nose%20443.jpeg)
  
- End mill(photo)
+ End mil
 
  ![end mill](/img/shopbotimages/end%20mill44.jpeg)
 
